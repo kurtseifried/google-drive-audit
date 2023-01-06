@@ -1,0 +1,6 @@
+DEBUG = False
+
+DOMAIN = "example.com"
+ADMIN_USERNAME = "administrator@example.com"
+SERVICE_ACCOUNT_FILE = "credentials.json"
+LOCKDOWN_GRACE_DAYS = 30
